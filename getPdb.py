@@ -1,3 +1,4 @@
+#Copyright © 2020 DoiNaoya All rights reserved.
 """プロキシ設定
 $ emacs ~/.wgetrc
 #Lab Proxy Setting
