@@ -1,3 +1,4 @@
+#Copyright © 2020 DoiNaoya All rights reserved.
 #パラメータ
 dir="data/data/" #csv dir
 gpu = argv[2] #0 or 1
