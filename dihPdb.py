@@ -1,3 +1,4 @@
+#Copyright © 2020 DoiNaoya All rights reserved.
 #! /usr/bin/env python
 from sys import argv
 #進捗確認>watch -td cat log/tqdm.txt
