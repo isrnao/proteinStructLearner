@@ -1,6 +1,7 @@
+#Copyright © 2020 DoiNaoya All rights reserved.
+
 #パラメータ
 accnum=10#全データの何分の1で学習度確認をするか
-
 
 from sys import argv
 import tensorflow as tf
