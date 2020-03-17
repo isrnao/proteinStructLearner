@@ -1,7 +1,8 @@
+#Copyright © 2020 DoiNaoya All rights reserved.
+
 #パラメータ
 epochs=50
 testcsv="if/VLCQAHx.csv"
-
 
 import tensorflow as tf
 from tqdm import tqdm
